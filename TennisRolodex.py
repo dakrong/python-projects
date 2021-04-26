@@ -1,4 +1,3 @@
-# Daniel Akrong ENAE380:0202
 import requests
 from bs4 import BeautifulSoup
 from tkinter import *
