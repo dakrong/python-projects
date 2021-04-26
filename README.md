@@ -1,3 +1,3 @@
 # python-projects
 
-# welcom to my python projects! enjoy
+# welcome to my python projects! enjoy
